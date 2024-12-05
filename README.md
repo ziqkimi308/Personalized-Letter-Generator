@@ -1,6 +1,4 @@
-# Project: I Am Learning Python
-
-### Personalized Letter Generator
+# Personalized Letter Generator
 
 - The Personalized Letter Generator is a Python program that takes a list of names from a file and a letter template from another file. It then generates personalized letters for each name by replacing the placeholder [name] in the template with the actual name from the list. The generated letters are saved in separate files for each name.
 
